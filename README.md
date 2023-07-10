@@ -1,1 +1,2 @@
 # HuffmanCoding
+This repository contains a C++ program for file compression and decompression using the Huffman coding technique. The program provides efficient compression by generating Huffman codes based on character frequencies in the input file. It then saves the compressed file in a custom format (.huf). The decompression process reconstructs the Huffman tree and retrieves the original file.
